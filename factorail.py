@@ -1,6 +1,4 @@
-num = 7
-
-#num = int(input("Enter a number: "))
+num = int(input("Enter a number: "))
 
 factorial = 1
 
