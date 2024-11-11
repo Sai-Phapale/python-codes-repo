@@ -9,3 +9,4 @@ AWS Advance Deatils
 apt-get update
 apt-get install nginx -y
 echo "this ip is $(hostname)" > /var/www/html/index.html
+
